@@ -4,4 +4,4 @@
 HTML5/CSS3/JS
 
 ### Description:
-This is a 2D platformer game engine.
+This is an interactive 2D platformer game engine.
